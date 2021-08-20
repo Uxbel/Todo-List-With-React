@@ -11,3 +11,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h1 {
+	width: 100%;
+	font-size: 100px;
+	font-weight: 100;
+	text-align: center;
+	color: rgba(175, 47, 47, 0.15);
+}
+
+#item-left {
+    font-weight: lighter;
+}
